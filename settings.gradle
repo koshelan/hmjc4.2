@@ -1,0 +1,6 @@
+rootProject.name = 'HWGradel'
+include 'api'
+include 'db'
+include 'service'
+
+
